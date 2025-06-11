@@ -43,15 +43,15 @@ This is a full-stack food ordering application inspired by Zomato, built using *
 ### 🔐 Login & Signup
 | Login | Signup |
 |-------|--------|
-| ![Login](my-react-app/screenshots/login.png) | ![Signup](my-react-app/screenshots/signup.png) |
+| ![Login](my-react-app/screenshots/login.jpg.png) | ![Signup](my-react-app/screenshots/signup.jpg.png) |
 
 ### 🏠 Home & Menu
 | Home | Menu |
 |------|------|
-| ![Home](my-react-app/screenshots/home.png) | ![Menu](my-react-app/screenshots/menu.png) |
+| ![Home](my-react-app/screenshots/home.jpg.png) | ![Menu](my-react-app/screenshots/menu.jpg.png) |
 
 ### 🛒 Cart & Order Success
 | Cart | Order Success |
 |------|----------------|
-| ![Cart](my-react-app/screenshots/cart.png) | ![Success](my-react-app/screenshots/success.png) |
+| ![Cart](my-react-app/screenshots/cart.jpg.png) | ![Success](my-react-app/screenshots/success.jpg.png) |
 
