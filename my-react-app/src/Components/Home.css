@@ -1,0 +1,81 @@
+  body{
+      padding:0;
+      margin:0;
+  }
+  #banner {
+    width: 100%;
+    height: 500px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4)), url('../assets/images3.jpg'); 
+    background-size: cover;
+    background-position: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(68, 66, 66);
+    margin-bottom: 20px;
+    border-bottom-left-radius: 100px;
+    border-bottom-right-radius: 100px;
+  }
+  #banner-text {
+    font-size:5rem;
+    font-weight: bold;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 6px rgba(0,0,0,0.7);
+  }
+  .favorites-section {
+    text-align: center;
+  }
+
+  .favorites-heading {
+    font-size: 1.8rem;
+    color: #333;
+    margin-bottom: 30px;
+  }
+
+  .favorites-grid {
+    display:flex;
+  justify-content: center;
+  gap:40px;
+  }
+
+  .favorite-card {
+    width: 90px;
+    height:90px;
+    transition: transform 0.3s ease;
+      border-radius: 50%;
+      cursor: pointer;
+  }
+
+  .favorite-card:hover {
+    transform: scale(1.99);
+    transition: transform 0.7s ease;
+    box-shadow: 0 0 100px 100vh  rgba(0, 0, 0, 0.466);
+    text-shadow:white;
+  }
+
+  .favorite-img {
+    width: 90px;
+    height:90px;
+    object-fit: cover;
+    border-radius: 50%;
+    box-shadow: 10px 5px 12px rgba(0, 0, 0, 0.836);
+  }
+
+  .favorite-name {
+    margin-top: 10px;
+    font-weight: 500;
+    color: #555;
+    font-size: 1rem;
+  }
+  .favorite-img:hover {
+  transition: transform 0.9s ease-in;
+  transform: scale(1.20);
+  box-shadow: 0 0 10px rgb(255, 255, 255);
+
+  }
+
+  .favorite-card:hover .favorite-name{
+    color:white;
+    text-shadow: 0 0 10px rgb(197, 255, 249);
+  }

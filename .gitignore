@@ -1,0 +1,10 @@
+# Root
+.DS_Store
+.env
+
+# Frontend
+my-react-app/node_modules
+my-react-app/build
+
+# Backend
+server/node_modules
