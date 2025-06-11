@@ -37,3 +37,11 @@ This is a full-stack food ordering application inspired by Zomato, built using *
 - **State Management:** React Context API (Cart & Auth)
 
 ---
+
+## 📸 Screenshots
+
+| Login Page | Restaurant List | Menu Page | Cart & Order |
+|------------|------------------|------------|----------------|
+| ![Login](screenshots/login.png) | ![Restaurants](screenshots/restaurants.png) | ![Menu](screenshots/menu.png) | ![Cart](screenshots/cart.png) |
+
+---
