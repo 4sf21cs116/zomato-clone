@@ -10,7 +10,6 @@ This is a full-stack food ordering application inspired by Zomato, built using *
 ### 👤 User Flow (Simulation)
 - Simulated login/signup using `AuthContext` on frontend.
 - Conditional route rendering (i.e., cart & order pages are visible only if a user is considered "logged in").
-- No real backend authentication (no token/session handling yet).
 
 ### 🏬 Restaurants & Menu
 - Browse restaurants with images, cuisine, and address.
