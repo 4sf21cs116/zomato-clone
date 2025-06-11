@@ -1,5 +1,5 @@
-# zomato-clone
-# 🍽️ Zomato Clone - Food Ordering Web App
+
+# 🍽️ zomato-clone
 
 This is a full-stack food ordering application inspired by Zomato, built using **React**, **Node.js**, **Express**, and **MongoDB**. The app allows users to browse restaurants, view menus, manage a shopping cart, and place orders.
 
